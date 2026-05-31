@@ -20,11 +20,11 @@ Penetration-Testing-Notes/
 │   ├── 07_Internal_VA_Windows.md
 │   └── 08_Internal_VA_Linux.md
 ├── 02_Web_Application_Pentest/
-│   ├── 09_Web_App_Pentest_Full.md
-│   └── 10_Web_App_VA.md
+│   ├── 01_Web_App_Pentest_Full.md
+│   └── 02_Web_App_VA.md
 └── 03_API_Pentest/
-    ├── 11_API_Pentest_Full.md
-    └── 12_API_VA.md
+    ├── 01_API_Pentest_Full.md
+    └── 02_API_VA.md
 ```
 
 ---
